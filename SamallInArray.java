@@ -38,7 +38,7 @@ public class SamallInArray{
         }
 
         System.out.println("Minimum element in the array is: "+min);
-        sc.close();
+        sc.close(); 
 
     }
 
